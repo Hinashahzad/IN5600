@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Individual_Project</string>
+    <string name="post_method_testing">Post Method Testing</string>
+    <string name="get_method_testing">Get Method Testing</string>
+</resources>
